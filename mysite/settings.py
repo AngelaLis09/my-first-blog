@@ -25,7 +25,7 @@ SECRET_KEY = 'h8zfq*412t8+9tkdd1jl@!*2km3u=3=n0^dcg0wp)wch9@ilg$'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1','<TintoAng>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1','TintoAng.pythonanywhere.com']
 
 
 # Application definition
